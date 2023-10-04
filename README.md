@@ -13,5 +13,5 @@ This is a project that I began a while back and have not completed.
 
 ### What have I done so far 
 - I am working in R
-- I built a process for scraping data from https://www.tfrrs.org/, and repository of all NCAA cross country and track results
+- I built a process for scraping data from https://www.tfrrs.org/, a repository of all NCAA cross country and track results
 - I built a process to store data for a given race into a local SQL database
